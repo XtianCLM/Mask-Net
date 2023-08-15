@@ -3,9 +3,11 @@ Convolutional Neural Network In Emotion Detection Using Masked Images
 
 To use the model you should follow this steps.
 
-First step is to pip insatll the requirements.txt.
+First check if you have a python installed in your computer if not you to install it first. 
 
-Next step is to install this programs:
+Second step is to pip insatll the requirements.txt.
+
+Final step is to install this programs:
 
 pip install cmake
 pip install dlib
