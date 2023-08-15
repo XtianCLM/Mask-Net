@@ -3,17 +3,7 @@ Convolutional Neural Network In Emotion Detection Using Masked Images
 
 To use the model you should follow this steps.
 
-First step is to install all this packages:
-pip install streamlit
-pip install streamlit-option-menu
-pip install matplotlib
-pip install tensorflow
-pip install sklearn
-pip install -U scikit-learn
-pip install scikit-image
-pip install pretty-confusion-matrix
-pip install mlxtend 
-pip install opencv-python
+First step is to pip insatll the requirements.txt.
 
 Next step is to install this programs:
 
