@@ -1,0 +1,172 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+:root{
+    /* --primaryColor:#22577E;
+    --secondaryColor:#38688b;
+    --tertiaryColor:#4e7998;
+    --darkColor:#0E2332;
+    --secondaryDarkColor:#112C3F;
+    --tertiaryDarkColor:#14344C;
+    --quaternaryDarkColor:#183D58;
+    --sixthDarkColor:#1f4e71;
+    --whiteColor:#e9eef2;
+    --secondaryWhite:#d3dde5;
+    --bg:#e9eef2;
+    --text-color:white; */
+    --primaryColor:#00476D;
+    --primaryColor2:#15618a;
+    --skyblue:#BCDFF2;
+    --skyblue2:#C9E6F5;
+    --skyblue3:#DEF1F8;
+    --lightgreen:#B2CFC4;
+    --red:#EFB1B1;
+    --lightred:#FFF6FB;
+    --yellow:#F8E2A8;
+    --darkbrown:#404040;
+    --black:rgb(36, 34, 34);
+
+
+}
+
+/* top border */
+.css-1dp5vir {
+    height: 0;
+    display: none;
+}
+/* sidebar */
+div.css-6qob1r{
+    background-color: var(--primaryColor) ;
+    border:none;   
+} 
+
+/* background */
+.css-k1vhr4 {
+    background-color: #ffffff;
+}
+
+/* top main page */
+.css-18ni7ap {
+    background-color: #ffffff;
+
+
+}
+
+/* sidebar */
+div.css-1ope8sv {
+    background-color: var(--primaryColor);
+    
+}
+
+
+
+/* sidebar padding top */
+.css-hxt7ib {
+    padding-top: 15rem;
+    padding-left: .9rem;
+    padding-right: .9rem;
+}
+.css-18e3th9 {
+    flex: 1 1 0%;
+    width: 100%;
+    padding: 2.9rem 7rem 10rem;
+    min-width: auto;
+    max-width: initial;
+}
+
+/* buttons */
+.css-1cpxqw2 {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-weight: 400;
+    padding: .5rem 2rem;
+    border-radius: 0.25rem;
+    margin: 0px;
+    line-height: 1.6;
+    color: #ffffff;
+    width: auto;
+    user-select: none;
+    background-color:var(--quaternaryDarkColor);
+    border: 1px solid rgba(49, 51, 63, 0.2);
+}
+.css-1cpxqw2:hover {
+    background-color:var(--secondaryColor);
+    border:1px solid var(--secondaryColor);
+    color:white;
+}
+/* second button css for firefox */
+.css-6kekos {
+    display: inline-flex;
+    -moz-box-align: center;
+    align-items: center;
+    -moz-box-pack: center;
+    justify-content: center;
+    font-weight: 400;
+    padding: 0.25rem 1rem;
+    border-radius: 0.25rem;
+    margin: 0px;
+    line-height: 1.6;
+    color: #ffffff;
+    width: auto;
+    user-select: none;
+    background-color:var(--secondaryDarkColor);
+    border: 1px solid rgba(49, 51, 63, 0.2);
+}
+
+/* page container */
+.css-18e3th9 {
+    flex: 1 1 0%;
+    width: 100%;
+    padding: .1rem 2.9rem 5rem;
+    min-width: auto;
+    max-width: initial;
+}
+
+/* sidebar */
+.css-1vq4p4l {
+    padding: 6rem 1rem 1.5rem;
+    margin-top: 7.4rem;
+}
+/* main page */
+.css-12lk024 {
+    width: 1128px;
+    position: relative;
+    display: flex;
+    flex: 1 1 0%;
+    flex-direction: column;
+    gap: 0;
+}
+
+
+
+
+/* .css-1offfwp p{
+    word-break: break-word;
+    position: relative;
+    left:6rem;
+    color:white;
+    bottom: 11.2rem;
+} */
+/* button */
+.css-1x8cf1d {
+    display: inline-flex;
+    -moz-box-align: center;
+    align-items: center;
+    -moz-box-pack: center;
+    justify-content: center;
+    font-weight: 400;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.25rem;
+    margin: 0px;
+    line-height: 1.6;
+    color: inherit;
+    width: auto;
+    user-select: none;
+    background-color:#BCDFF2 ;
+    border: none;
+}

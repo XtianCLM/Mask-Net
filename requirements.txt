@@ -1,0 +1,13 @@
+pip install streamlit
+pip install streamlit-option-menu
+pip install matplotlib
+pip install tensorflow
+pip install sklearn
+pip install -U scikit-learn
+pip install scikit-image
+pip install pretty-confusion-matrix
+pip install mlxtend 
+pip install opencv-python
+
+
+
